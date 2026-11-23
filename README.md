@@ -1,13 +1,13 @@
 # MIDN 3/C Chloe Haseltine's Fish Game
 Final project for EW200
 
-### Description
+## Description
 In fish game your goal is to eat all the fish in every level and survive the pufferfish
 
 This is a screenshot from the actual game:
 ![png of the image](homepage.png)
 
-#### How to Play:
+## How to Play:
 1. Clone this repository
 2. Install pygame-ce with pip install pygame-ce
 3. run game.py, python3 game.py
